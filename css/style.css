@@ -33,7 +33,6 @@ a {
 img {
   border: 0;
   vertical-align: middle;
-  border-radius: 360px;
 }
 
 .header {
@@ -52,6 +51,10 @@ img {
 .header h1 {
   position: relative;
   font-size: 5rem;
+}
+
+.logo a img {
+  border-radius: 360px;
 }
 .contact {
   position: relative;
